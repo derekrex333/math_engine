@@ -1,8 +1,8 @@
-# 🧮 Math Engine
+# Math Engine
 
 Una librería matemática completa en Python que implementa desde cero métodos numéricos, álgebra lineal, cálculo, probabilidad, optimización, machine learning, teoría de grafos y mucho más.
 
-## 📦 Módulos
+## Módulos
 
 | Módulo | Descripción |
 |--------|-------------|
@@ -25,7 +25,7 @@ Una librería matemática completa en Python que implementa desde cero métodos 
 | `metodos_cientificos` | Elementos finitos, lattice Boltzmann, caos, fractales |
 | `optimizacion_combinatoria` | TSP, mochila, branch & bound, colonia de hormigas |
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 git clone https://github.com/derekrex333/math_engine.git
@@ -35,12 +35,12 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## 🧪 Tests
+## Tests
 
 ```bash
 pytest tests/ -v
 ```
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
